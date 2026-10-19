@@ -10,7 +10,7 @@ public class Character {
 	public void setHp(int hp) { this.hp = hp; }
 	
 	public void run() {
-		System.out.println(this.name + "は逃げ出した！");
+		System.out.println(this.name + "は逃げ出した");
 	}
 	
 	public void attack(Matango m) {
