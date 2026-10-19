@@ -1,7 +1,6 @@
-public class Book extends TangileAsset {
-	private String isbh;
-	public Book(String name,int price,String color,String isbh){
-		super (name,price,color);
-		this.isbh = isbh;
+public class Book extends Hero {
+	private int item;
+	public sit(int sec){
+	 
 	}
-	public String getIsbh(){return this.isbh;}
+	public int getItem(){return this.item;}
