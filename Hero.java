@@ -8,6 +8,7 @@ public class Hero {
 		int hp;
 		public void attack() {}
 		public void run() {}
+		public void fly(){}
 		
 		
 		
